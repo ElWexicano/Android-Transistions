@@ -3,7 +3,14 @@
 
     <string name="app_name">Fun Transistions</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_transitions">Transition Animation Activity</string>
+    <string name="action_fade">Fade Animation</string>
     <string name="kitten">Kitten</string>
+    <string name="title_activity_home">Fade Animation</string>
+    <string name="slan">Slán</string>
+    <string name="dia_dhuit">Dia dhuit</string>
+    <string name="title_activity_iteration_animation">Iteration Animation Activity</string>
+    <string name="action_iteration">Iteration Animation</string>
+    <string name="naid">Náid</string>
 
 </resources>

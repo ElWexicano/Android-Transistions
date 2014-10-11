@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="numbers">
+        <item>0 - náid</item>
+        <item>1 - aon</item>
+        <item>2 - dó</item>
+        <item>3 - trí</item>
+        <item>4 - ceathair</item>
+        <item>5 - cúig</item>
+        <item>6 - sé</item>
+        <item>7 - seacht</item>
+        <item>8 - ocht</item>
+        <item>9 - naoi</item>
+        <item>10 - deich</item>
+        <item>11 - aon déag</item>
+        <item>12 - dó dhéag</item>
+        <item>13 - trí déag</item>
+        <item>14 - ceathair déag</item>
+        <item>15 - cuig déag</item>
+        <item>16 - sé déag</item>
+        <item>17 - seacht déag</item>
+        <item>18 - ocht déag</item>
+        <item>19 - naoi déag</item>
+        <item>20 - fíche</item>
+    </string-array>
+
+</resources>
