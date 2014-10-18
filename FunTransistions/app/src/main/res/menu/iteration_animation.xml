@@ -9,4 +9,8 @@
     <item android:id="@+id/action_transitions"
         android:title="@string/action_transitions"
         android:showAsAction="never" />
+
+    <item android:id="@+id/action_animated"
+        android:title="@string/action_animated"
+        android:showAsAction="never" />
 </menu>

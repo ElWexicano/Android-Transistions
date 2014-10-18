@@ -63,6 +63,14 @@ public class IterationAnimationActivity extends Activity {
             startActivity(new Intent(this, FadeAnimationActivity.class));
 
             return true;
+        } else if (id == R.id.action_animated) {
+            startActivity(new Intent(this, AnimatedActivity.class));
+
+            return true;
+        } else if (id == R.id.action_background) {
+            startActivity(new Intent(this, MovingBackgroundActivity.class));
+
+            return true;
         }
 
         return super.onOptionsItemSelected(item);

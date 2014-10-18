@@ -1,10 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="ie.iamshanedoyle.funtransistions.FadeAnimationActivity" >
-
-
-    <item android:id="@+id/action_transitions"
-        android:title="@string/action_transitions"
+    tools:context="ie.iamshanedoyle.funtransistions.MovingBackgroundActivity" >
+    <item android:id="@+id/action_fade"
+        android:title="@string/action_fade"
         android:showAsAction="never" />
 
     <item android:id="@+id/action_iteration"
@@ -13,5 +11,9 @@
 
     <item android:id="@+id/action_animated"
         android:title="@string/action_animated"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_transitions"
+        android:title="@string/action_transitions"
         android:showAsAction="never" />
 </menu>

@@ -55,6 +55,14 @@ public class FadeAnimationActivity extends Activity implements Runnable {
             startActivity(new Intent(this, IterationAnimationActivity.class));
 
             return true;
+        } else if (id == R.id.action_animated) {
+            startActivity(new Intent(this, AnimatedActivity.class));
+
+            return true;
+        } else if (id == R.id.action_background) {
+            startActivity(new Intent(this, MovingBackgroundActivity.class));
+
+            return true;
         }
 
         return super.onOptionsItemSelected(item);

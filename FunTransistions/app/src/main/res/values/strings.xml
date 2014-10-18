@@ -12,5 +12,9 @@
     <string name="title_activity_iteration_animation">Iteration Animation Activity</string>
     <string name="action_iteration">Iteration Animation</string>
     <string name="naid">Náid</string>
+    <string name="title_activity_animated_activty">AnimatedActivty</string>
+    <string name="action_animated">Animated Action</string>
+    <string name="title_activity_moving_background">MovingBackgroundActivity</string>
+    <string name="action_background">Animated Background</string>
 
 </resources>
